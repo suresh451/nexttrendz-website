@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-item-img {
+  width: 120px;
+}
+.rating-div {
+  display: flex;
+}
+.head {
+  font-size: 14px;
+}
+.star {
+  width: 20px;
+}
